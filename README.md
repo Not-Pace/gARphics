@@ -6,3 +6,5 @@
 
 ## How to get it running
 Firstly, install the [APK](https://github.com/Not-Pace/gARphics/blob/main/gARphics_app.apk) on your phone. Next, download the [marker image](https://raw.githubusercontent.com/Not-Pace/gARphics/main/media/marker.jpeg) from the repo as well. To have the graph appear on your screens, you'll need to have the marker image either printed out or displayed on a different device. Hold the marker in front of your camera after you've entered the .csv file into gARphics.
+
+![image](https://user-images.githubusercontent.com/39991360/142779725-24250c51-d5d2-4333-88ac-179bcd234eeb.png)
